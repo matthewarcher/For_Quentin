@@ -1,0 +1,1 @@
+This repository will contain the Python code written by Quentin, Matt and Amandine for Quentin's Marine Hydrokinetic Energy project. Make sure all final code for data management, analysis and visualization is stored here.
